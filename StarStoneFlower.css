@@ -23,13 +23,9 @@
 }
 
 
-
-
-
-
 #stoneName{
     position: absolute;
-    top:10%;
+    top:8%;
     left:5%;
     font-size:150%;
     font-family: 'Song Myung', serif;
@@ -61,7 +57,7 @@
 #flowerName{
     position: absolute;
     top:9%;
-    left:7%;
+    left:5%;
     font-size:150%;
     font-family: 'Song Myung', serif;
 

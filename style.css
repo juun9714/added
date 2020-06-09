@@ -15,11 +15,6 @@ hr{
     top:20%;
     left:5%
 }
-#colorline{
-    top:28%;
-    left:20%;
-    width:20%;
-}
 #colorname{
     top:15%;
     left:25%;
@@ -96,27 +91,27 @@ body{
 }
 #colorcontent{
     position: absolute;
-    top:30%;
-    left:10%;
+    top:35%;
+    left:5%;
     font-family: 'Song Myung', serif;
-    width:80%;
+    width:90%;
 }
-#colorline{
+.colorline{
     position: absolute;
     width:30%;
     top:20%;
-    left:10%;
+    left:5%;
 }
 #colorname{
-    font-size:22px;
+    font-size:150%;
     position: absolute;
-    top:7%;
-    left:10%;
+    top:9%;
+    left:5%;
 }
 #twimg{
     position: absolute;
-    top:4%;
-    left:28%;
+    top:5%;
+    left:23%;
     width:10%;
     height:auto;
     max-width:30px;
@@ -124,13 +119,14 @@ body{
 #twname{
     font-size:22px;
     position: absolute;
-    top:7%;
-    left:10%;
+    top:8%;
+    font-size:150%;
+    left:5%;
 }
 #twcontent{
     position: absolute;
-    top:30%;
-    left:10%;
-    width:80%;
+    top:35%;
+    left:5%;
+    width:90%;
     font-family: 'Song Myung', serif;
 }
