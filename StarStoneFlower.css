@@ -8,8 +8,9 @@
 }
 #starImg{
     position: absolute;
-    top : 35%;
-    left : 5%;
+    top : 30%;
+    left : 3%;
+    width:33%;
 }
 #starText{
     position : absolute;

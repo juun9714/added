@@ -1,5 +1,5 @@
-var month = 11
-var day = 3
+var month = 6
+var day = 25
 
 
 const starName = document.querySelector('#starName')
@@ -22,18 +22,18 @@ const feature = {
 }
 
 const imgSrc = {
-    '염소' : 'https://search.pstatic.net/common?type=o&size=75x75&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Foutside%2Fsign%2Fimg%2F20140305%2Fimg_sign12.png',
-    '물병' : 'https://search.pstatic.net/common?type=o&size=75x75&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Foutside%2Fsign%2Fimg%2F20140305%2Fimg_sign01.png',
-    '물고기' : 'https://search.pstatic.net/common?type=o&size=75x75&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Foutside%2Fsign%2Fimg%2F20140305%2Fimg_sign02.png',
-    '양' : 'https://search.pstatic.net/common?type=o&size=75x75&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Foutside%2Fsign%2Fimg%2F20140305%2Fimg_sign03.png',
-    '황소' : 'https://search.pstatic.net/common?type=o&size=75x75&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Foutside%2Fsign%2Fimg%2F20140305%2Fimg_sign04.png',
-    '쌍둥이' : 'https://search.pstatic.net/common?type=o&size=75x75&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Foutside%2Fsign%2Fimg%2F20140305%2Fimg_sign05.png',
-    '게' : 'https://search.pstatic.net/common?type=o&size=75x75&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Foutside%2Fsign%2Fimg%2F20140305%2Fimg_sign06.png',
-    '사자' : 'https://search.pstatic.net/common?type=o&size=75x75&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Foutside%2Fsign%2Fimg%2F20140305%2Fimg_sign07.png',
-    '처녀' : 'https://search.pstatic.net/common?type=o&size=75x75&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Foutside%2Fsign%2Fimg%2F20140305%2Fimg_sign08.png',
-    '천칭' : 'https://search.pstatic.net/common?type=o&size=75x75&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Foutside%2Fsign%2Fimg%2F20140305%2Fimg_sign09.png',
-    '전갈' : 'https://search.pstatic.net/common?type=o&size=75x75&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Foutside%2Fsign%2Fimg%2F20140305%2Fimg_sign10.png',
-    '사수' : 'https://search.pstatic.net/common?type=o&size=75x75&quality=90&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Foutside%2Fsign%2Fimg%2F20140305%2Fimg_sign11.png',
+    '염소' : 'starcapri.png',
+    '물병' : 'staraqua.png',
+    '물고기' : 'starpisces.png',
+    '양' : 'starsheep.png',
+    '황소' : 'starcow.png',
+    '쌍둥이' : 'stargem.png',
+    '게' : 'starcanc.png',
+    '사자' : 'starleo.png',
+    '처녀' : 'starvirgo.png',
+    '천칭' : 'starlibra.png',
+    '전갈' : 'starscol.png',
+    '사수' : 'starsagi.png',
 }
 
 
