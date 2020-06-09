@@ -1,0 +1,134 @@
+#star{
+    border:solid 1px black;
+    background:rgba(255,255,255,0.5);
+    box-shadow: 5px 6px white;
+    width:35%;
+    height:20%;
+    position:absolute;
+    top:20%;
+    left:10%;
+}
+hr{
+    width:30%;
+    border:thin solid black;
+    position: absolute;
+    top:20%;
+    left:5%
+}
+#colorline{
+    top:28%;
+    left:20%;
+    width:20%;
+}
+#colorname{
+    top:15%;
+    left:25%;
+    position:absolute;
+    font-size: 170%;
+}
+#stone{
+    border:solid 1px black;
+    background:rgba(255,255,255,0.5);
+    box-shadow: 5px 6px white;
+    width:35%;
+    height:20%;
+    position:absolute;
+    top:20%;
+    left:55%;
+}
+#flower{
+    border:solid 1px black;
+    box-shadow: 5px 6px white;
+    background:rgba(255,255,255,0.5);
+    width:35%;
+    height:20%;
+    position:absolute;
+    top:45%;
+    left:10%;
+}
+#twelve{
+    border:solid 1px black;
+    box-shadow: 5px 6px white;
+    background:rgba(255,255,255,0.5);
+    width:35%;
+    height:20%;
+    position:absolute;
+    top:45%;
+    left:55%;
+}
+#color1{
+    border:solid 1px black;
+    box-shadow: 5px 6px white;
+    background:rgba(255,255,255,0.5);
+    width:20%;
+    height:20%;
+    position:absolute;
+    top:70%;
+    left:10%;
+}
+#color2{
+    border:solid 1px black;
+    box-shadow: 5px 6px white;
+    background:rgba(255,255,255,0.5);
+    width:57%;
+    height:20%;
+    position:absolute;
+    top:70%;
+    left:33%;
+}
+#colorbox{
+    border:solid 3px white;
+    width:70%;
+    height:70%;
+    position:absolute;
+    left:15%;
+    top: 15%;
+    background-color: #dd4b55;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+body{
+    font-family: 'Song Myung', serif;
+
+    background-color: #dd4b55;
+}
+#colorcontent{
+    position: absolute;
+    top:30%;
+    left:10%;
+    font-family: 'Song Myung', serif;
+    width:80%;
+}
+#colorline{
+    position: absolute;
+    width:30%;
+    top:20%;
+    left:10%;
+}
+#colorname{
+    font-size:22px;
+    position: absolute;
+    top:7%;
+    left:10%;
+}
+#twimg{
+    position: absolute;
+    top:4%;
+    left:28%;
+    width:10%;
+}
+#twname{
+    font-size:22px;
+    position: absolute;
+    top:7%;
+    left:10%;
+}
+#twcontent{
+    position: absolute;
+    top:30%;
+    left:10%;
+    width:80%;
+    font-family: 'Song Myung', serif;
+}
