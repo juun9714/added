@@ -11,6 +11,8 @@
     top : 30%;
     left : 3%;
     width:33%;
+    max-width:120px;
+    height:auto;
 }
 #starText{
     position : absolute;

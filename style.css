@@ -118,6 +118,8 @@ body{
     top:4%;
     left:28%;
     width:10%;
+    height:auto;
+    max-width:30px;
 }
 #twname{
     font-size:22px;
